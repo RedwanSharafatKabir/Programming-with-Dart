@@ -22,14 +22,6 @@ Every topic comes with small, runnable code examples so you learn by doing, not 
 
 ---
 
-## 📂 Repository Structure
-
-```
-Programming-with-Dart/
-├── Dart Programming/     # Core Dart language lessons and practice code
-└── README.md             # You are here
-```
-
 - **`Dart Programming/`** contains the core Dart language examples. Start here.
 
 ---
