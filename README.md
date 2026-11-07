@@ -128,8 +128,6 @@ Follow the topics in this order. Each one builds on the previous.
 | 12 | **Generics & Enums** | Reusable, type-safe code |
 | 13 | **Intro to Flutter** | Widgets, layouts, and building your first Android & iOS app |
 
-> 💡 The table above is the suggested order. Check the `Dart Programming` folder to see which of these topics have example files.
-
 ---
 
 ## 🧪 Quick Syntax Cheat Sheet
